@@ -1,0 +1,24 @@
+.imagen-1{
+    width: 90%;
+}
+
+.imagen-2{
+    width: 90%;
+}
+
+.imagen-3{
+    width: 90%;
+}
+
+.btn-custom {
+    background-color: blue;
+    border-color: white;
+    color: black;
+  }
+  
+  .btn-custom:hover {
+    background-color: red;
+    border-color: white;
+    color: black;
+  }
+  
